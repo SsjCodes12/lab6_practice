@@ -36,7 +36,9 @@ left:50%;}
 body{
 background-image: url("images/repeating.png");
 background-repeat: no-repeat;
-float: left;}
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
 }
 
 { background-image: url("../images/black.jpg"); }
