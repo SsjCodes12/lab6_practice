@@ -34,7 +34,7 @@ position: relative;
 left:50%;}
 
 body{
-background-image: url("repeating.png");
+background-image: url("images/repeating.png");
 background-repeat: no-repeat;
 float: left;}
 }
